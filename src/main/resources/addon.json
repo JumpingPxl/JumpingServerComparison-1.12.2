@@ -1,0 +1,9 @@
+{
+  "uuid": "%uuid%",
+  "name": "ServerComparison",
+  "mainClass": "de.jumpingpxl.servercomparison.JumpingAddon",
+  "author": "JumpingPxl",
+  "description": "A add-on to compare two servers player count",
+  "version": 1,
+  "category": 2
+}
